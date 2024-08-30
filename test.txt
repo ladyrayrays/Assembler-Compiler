@@ -1,0 +1,2 @@
+while(pancake == pancake){
+var int x = array[12];

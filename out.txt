@@ -1,0 +1,19 @@
+
+<keyword> while </keyword>
+<symbol> ( </symbol>
+<identifier> pancake  </identifier>
+<symbol> = </symbol>
+<symbol> = </symbol>
+<identifier> pancake </identifier>
+<symbol> ) </symbol>
+<symbol> { </symbol>
+
+<keyword> var </keyword>
+<keyword> int </keyword>
+<identifier> x  </identifier>
+<symbol> = </symbol>
+<identifier> array </identifier>
+<symbol> [ </symbol>
+<integerConstant> 12 </integerConstant>
+<symbol> ] </symbol>
+<symbol> ; </symbol>
