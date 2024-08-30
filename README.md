@@ -1,2 +1,4 @@
 # Assembler-Compiler
-Class Project to replicate a Assembler and Compiler in C for a Hardware Course
+<h1>Brief Description</h1>
+<p>Project for a Hardware Course in the Spring of 2018, where we recreated an Assembler and Compiler<</p>
+
